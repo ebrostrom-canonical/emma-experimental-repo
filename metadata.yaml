@@ -1,0 +1,5 @@
+name: "test-bin-build-1"
+version: "0.1"
+base: "ubuntu@24.04"
+platforms:
+  amd64:
