@@ -1,4 +1,4 @@
-name: "test-emma-upload"
+name: "test-bin-build-1"
 version: "0.1"
 base: "ubuntu@22.04"
 platforms:
