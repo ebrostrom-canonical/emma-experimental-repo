@@ -4,4 +4,4 @@ base: "ubuntu@24.04"
 platforms:
   platform1:
     build-on: ["arm64"]
-    build-for: arm64
+    build-for: "i386"
