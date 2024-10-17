@@ -3,8 +3,4 @@ version: "0.1"
 base: "ubuntu@24.04"
 platforms:
   arm64:
-  platform-1:
-    build-on: ["amd64"]
-    build-for: amd64
   i386:
-    build-on: ["armhf"]
