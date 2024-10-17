@@ -2,5 +2,6 @@ name: "test-parsed-platform-2"
 version: "0.1"
 base: "ubuntu@24.04"
 platforms:
-  arm64:
-  i386:
+  platform1:
+    build-on: ["arm64"]
+    build-for: arm64
