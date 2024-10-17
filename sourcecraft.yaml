@@ -1,4 +1,4 @@
-name: "test-parsed-platform-2"
+name: "test-parsed-platform-3"
 version: "0.1"
 base: "ubuntu@24.04"
 platforms:
